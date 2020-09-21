@@ -26,7 +26,7 @@ export default [
     price:500.00,
     img:"../src/images/MJ23WhiteRed.jpg" ,
     amount:4 
-  }
+  },
   {
       id:5,
       title: "MJ23",

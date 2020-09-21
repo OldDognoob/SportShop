@@ -8,10 +8,10 @@ import {
   GET_TOTALS,
   TOGGLE_AMOUNT,
 } from "../State/actions";
-import cartItems from "../cart-items";
+import shopItems from "../shopItems";
 
 const initialStore = {
-  cart: cartItems,
+  cart: shopItems,
   total: 0,
   amount: 0,
 };
